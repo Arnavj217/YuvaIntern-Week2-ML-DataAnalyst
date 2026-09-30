@@ -1,0 +1,17 @@
+year,state,district,season,crop,area_ha,production_tonnes,reported_yield_kg_ha,production_outlier_flag,yield_t_ha
+2021,Madhya Pradesh,Indore,Kharif,Soybean,17100.0,19400.0,1212.5,False,1.1345029239766082
+2022,Madhya Pradesh,Indore,Kharif,Soybean,16500.0,20200.0,1224.2,False,1.2242424242424241
+2023,Madhya Pradesh,Indore,Kharif,Soybean,17100.0,25000.0,1228.1,False,1.4619883040935673
+2024,Madhya Pradesh,Indore,Kharif,Soybean,17600.0,21750.0,1235.8,False,1.2357954545454546
+2021,Maharashtra,Akola,Kharif,Cotton,18500.0,21900.3,1183.8,False,1.1838
+2022,Maharashtra,Akola,Kharif,Cotton,19000.0,22800.0,1200.0,False,1.2
+2023,Maharashtra,Akola,Kharif,Cotton,19400.0,23500.0,1211.3,False,1.211340206185567
+2024,Maharashtra,Akola,Kharif,Cotton,19800.0,24100.0,1217.2,False,1.2171717171717171
+2021,Maharashtra,Nashik,Kharif,Soybean,12000.0,14500.0,1208.3,False,1.2083333333333333
+2022,Maharashtra,Nashik,Kharif,Soybean,12500.0,15100.0,1208.0,False,1.208
+2023,Maharashtra,Nashik,Kharif,Soybean,13000.0,15800.0,1215.4,False,1.2153846153846153
+2024,Maharashtra,Nashik,Kharif,Soybean,13200.0,16150.0,1223.5,False,1.2234848484848484
+2021,Punjab,Ludhiana,Rabi,Wheat,21000.0,48300.0,2300.0,False,2.3
+2022,Punjab,Ludhiana,Rabi,Wheat,21400.0,49600.0,2317.8,True,2.317757009345794
+2023,Punjab,Ludhiana,Rabi,Wheat,21700.0,50100.0,2308.8,True,2.3087557603686637
+2024,Punjab,Ludhiana,Rabi,Wheat,22000.0,51400.0,2336.4,True,2.3363636363636364

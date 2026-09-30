@@ -1,0 +1,14 @@
+Dataset,Issue,Records_Affected,Treatment
+Crop,Duplicates,1,Removed exact duplicate based on year+state+district+season+crop
+Crop,Missing production,1,Derived from area × reported yield / 1000 where inputs available
+Crop,Missing area,1,Imputed with crop+state median
+Crop,Production outlier,3,Flagged by global IQR; retained for review and replaced only if source validation fails
+Rainfall,Duplicates,1,Removed duplicate year+month+state
+Rainfall,Negative values,1,Set invalid negative rainfall to missing
+Rainfall,Missing/invalid,2,Median imputation by state+month
+Rainfall,Outlier,1,IQR flag; retained pending meteorological validation
+Market,Duplicates,1,Removed duplicate date+state+APMC+commodity
+Market,Logical price errors,1,Flagged; impute only after checking source
+Market,Missing modal price,1,Median imputation for simulation; real project should validate source/neighboring observations
+Market,Invalid min price,1,Replaced with 95% of modal only as simulation rule; real data should be source-validated
+Market,Modal-price outlier,0,IQR flag; do not delete without source/event validation

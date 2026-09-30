@@ -1,0 +1,18 @@
+year,state,district,season,crop,area_ha,production_tonnes,reported_yield_kg_ha
+2021,Maharashtra,Nashik,Kharif,Soybean,12000.0,14500.0,1208.3
+2022,Maharashtra,Nashik,Kharif,Soybean,12500.0,15100.0,1208.0
+2023,Maharashtra,Nashik,Kharif,Soybean,13000.0,15800.0,1215.4
+2024,Maharashtra,Nashik,Kharif,Soybean,13200.0,16150.0,1223.5
+2021,Maharashtra,Akola,Kharif,Cotton,18500.0,,1183.8
+2022,Maharashtra,Akola,Kharif,Cotton,19000.0,22800.0,1200.0
+2023,Maharashtra,Akola,Kharif,Cotton,19400.0,23500.0,1211.3
+2024,Maharashtra,Akola,Kharif,Cotton,19800.0,24100.0,1217.2
+2021,Madhya Pradesh,Indore,Kharif,Soybean,,19400.0,1212.5
+2022,Madhya Pradesh,Indore,Kharif,Soybean,16500.0,20200.0,1224.2
+2023,Madhya Pradesh,Indore,Kharif,Soybean,17100.0,25000.0,1228.1
+2024,Madhya Pradesh,Indore,Kharif,Soybean,17600.0,21750.0,1235.8
+2021,Punjab,Ludhiana,Rabi, wheat ,21000.0,48300.0,2300.0
+2022,Punjab,Ludhiana,Rabi,Wheat,21400.0,49600.0,2317.8
+2023,Punjab,Ludhiana,Rabi,Wheat,21700.0,50100.0,2308.8
+2024,Punjab,Ludhiana,Rabi,Wheat,22000.0,51400.0,2336.4
+2022,Maharashtra,Nashik,Kharif,Soybean,12500.0,15100.0,1208.0

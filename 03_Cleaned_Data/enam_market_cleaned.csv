@@ -1,0 +1,13 @@
+date,state,apmc,commodity,min_price_rs_quintal,modal_price_rs_quintal,max_price_rs_quintal,arrival_tonnes,price_logic_error,price_outlier_flag,price_zscore,price_spread_rs_quintal,month
+2024-06-01,Maharashtra,Lasalgaon,Onion,1800,1950.0,2150,320,False,False,0.06254262095777814,350,6
+2024-06-02,Maharashtra,Lasalgaon,Onion,1750,1900.0,2120,340,False,False,-1.009616595461248,370,6
+2024-06-03,Maharashtra,Lasalgaon,Onion,1850,1950.0,2200,330,False,False,0.06254262095777814,350,6
+2024-06-04,Maharashtra,Lasalgaon,Onion,1700,1875.0,2100,360,False,False,-1.5456962036707609,400,6
+2024-06-05,Maharashtra,Lasalgaon,Onion,1820,1960.0,2180,350,False,False,0.27697446424158334,360,6
+2024-06-06,Maharashtra,Lasalgaon,Onion,1919,2020.0,2250,370,True,False,1.5635655239444146,331,6
+2024-06-07,Maharashtra,Lasalgaon,Onion,1880,2010.0,2240,365,False,False,1.3491336806606093,360,6
+2024-06-08,Maharashtra,Lasalgaon,Onion,1760,1910.0,2110,355,False,False,-0.7951847521774427,350,6
+2024-06-09,Maharashtra,Lasalgaon,Onion,1810,1970.0,2170,345,False,False,0.49140630752538855,360,6
+2024-06-10,Maharashtra,Lasalgaon,Onion,1790,1940.0,2140,360,False,False,-0.15188922232602706,350,6
+2024-06-11,Maharashtra,Lasalgaon,Onion,1850,1990.0,2200,375,False,False,0.920269994092999,350,6
+2024-06-12,Maharashtra,Lasalgaon,Onion,1720,1890.0,2090,390,False,False,-1.2240484387450532,370,6

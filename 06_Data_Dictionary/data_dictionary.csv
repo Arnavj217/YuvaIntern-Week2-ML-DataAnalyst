@@ -1,0 +1,12 @@
+Field,Description,Type,Role,Validation
+year,Year,Integer,Time index,Valid year
+state,State/UT,Categorical,Geography,Controlled spelling
+district,District,Categorical,Crop geography,Controlled spelling
+season,Agricultural season,Categorical,Crop season,Standardized label
+crop,Crop name,Categorical,Target/entity,Trim and canonicalize
+area_ha,Area cultivated,Numeric,Crop scale,Non-negative
+production_tonnes,Production,Numeric,Target/predictor,Non-negative
+yield_t_ha,Yield,Numeric,Target KPI,Production divided by area
+rainfall_mm,Rainfall,Numeric,Weather feature,Non-negative
+modal_price_rs_quintal,Modal market price,Numeric,Market feature,Check min <= modal <= max
+arrival_tonnes,Market arrivals,Numeric,Supply feature,Non-negative

@@ -1,0 +1,22 @@
+# Week 2 Submission Checklist
+
+- [x] At least two public agricultural datasets identified
+- [x] URLs and source relevance documented
+- [x] Data collection procedure documented
+- [x] Raw simulated datasets included
+- [x] Cleaning issues intentionally simulated
+- [x] Missing-value strategy documented
+- [x] Duplicate handling documented
+- [x] Outlier handling documented
+- [x] Normalization/standardization documented
+- [x] Feature engineering documented
+- [x] Pseudocode included
+- [x] Flowchart included
+- [x] Visual QA charts included
+- [x] Data dictionary included
+- [x] Cleaning log included
+- [x] Cleaned datasets included
+- [x] ML-ready sample included
+- [x] Python preprocessing script included
+- [x] Limitations and simulation disclaimer included
+- [x] Final DOCX created
